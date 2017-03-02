@@ -7,5 +7,5 @@ Opens indented xml in SublimeText3 or Notepad++.
 
 
 #Installation 
--build
--put the "xmlVisualizer.dll" assembly into the “My documents\Visual Studio YYYY\Visualizers” folder (the alternative is within the Visual Studio installation directory).
+- build
+- put the "xmlVisualizer.dll" assembly into the “My documents\Visual Studio YYYY\Visualizers” folder (the alternative is within the Visual Studio installation directory).
